@@ -4,5 +4,5 @@ main/credentials.h
 credentials-private.h
 
 # ignore vscode IDE settings files
-.vscode/*
+.vscode
 *.code-workspace
